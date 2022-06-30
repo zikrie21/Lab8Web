@@ -7,9 +7,9 @@
 
 ![image](ss/ss3.png)
 
-### Lalu Jika sudah dibuat databesnya dan isi data di tabelnya, koneksikan web(php) ke databes, berkiut hasil dari konfigarasi php(CRUD) ke databese MYSQL :
+### Lalu Jika sudah dibuat databesnya dan isi data di tabelnya, koneksikan web(php) ke databes, berkikut hasil dari konfigarasi php(CRUD) ke databese MYSQL :
 
-- Tamilan yang sudah koneksi ke data base
+- Tampilan yang sudah koneksi ke data base
 
 ![image](ss/ss4.png)
 
